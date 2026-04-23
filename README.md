@@ -22,3 +22,4 @@ Projenin çalışması için gerekli kütüphaneleri aşağıdaki komutla yükle
 
 ```bash
 pip install opencv-python pyTelegramBotAPI psutil
+Komut istemcisi "CMD" ile bu kodu girip çalıştırabilirsiniz python -m streamlit run Dosyanın bulunduğu yolu giriniz\projeadı.py
